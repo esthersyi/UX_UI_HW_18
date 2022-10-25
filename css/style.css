@@ -61,6 +61,14 @@ header ul {
     text-align: left;
 }
 
+button {
+    background-color: #ADC178;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    width: 200px; 
+}
+
 footer {
     background-color: #493B33;
     padding: 10px;
