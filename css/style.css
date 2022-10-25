@@ -73,6 +73,7 @@ footer {
     background-color: #493B33;
     padding: 10px;
     text-align: center;
+    /* border-top: #ADC178; */
 }
 
 footer ul{
@@ -144,6 +145,11 @@ footer li {
 
 h1 {
     margin: 50px;
+    font-size: 34px;
+}
+
+h4 {
+    font-size: 22px;
 }
 
 
