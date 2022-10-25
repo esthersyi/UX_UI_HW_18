@@ -13,6 +13,10 @@ body {
     display: inline-block;
 }
 
+.logo img{
+    width: 50px;
+}
+
 header {
     padding: 15px;
     background-color: #493B33;
@@ -22,6 +26,8 @@ header ul {
     float: right;
     color: white;
 }
+
+
 
 /* .navigation {
     width: 73%;
@@ -40,10 +46,11 @@ header ul {
 } */
 
 .heroImg {
-    width: 800px;
+    width: 1200px;
+    /* height: 500px; */
     padding: 25px;
-    transform: scale(.5);
-
+    /* transform: scale(.5); */
+    /* outline: 3px solid red; */
 }
 
 .content {
@@ -88,6 +95,11 @@ footer li {
     padding: 5px;
     margin: 15px;
     /* outline: 3px solid red; */
+}
+
+.flexChild img {
+    width: 100px;
+    height: 100px;
 }
 
 /* My Work */
